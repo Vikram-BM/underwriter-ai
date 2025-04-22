@@ -61,6 +61,18 @@ class UnderwriterAgent(AgentBase):
             logger.warning("No business details found in data, using sample data")
             sample_data = self.data_collector_agent.process_data("sample")
             restaurant_data["business_details"] = sample_data.get("business_details", {})
+        else:
+            # Make sure the business_details has a location field to avoid errors
+            if "location" not in restaurant_data["business_details"]:
+                logger.warning("Location data missing in business details, adding default location")
+                restaurant_data["business_details"]["location"] = {
+                    "address1": "",
+                    "city": "",
+                    "state": "",
+                    "zip_code": "",
+                    "country": "US",
+                    "display_address": []
+                }
             
         if not restaurant_data.get("reviews") or len(restaurant_data.get("reviews", [])) < 3:
             logger.warning("Insufficient reviews found, using sample reviews")
