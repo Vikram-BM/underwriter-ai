@@ -1,0 +1,16 @@
+INSTAGRAM DATA LIMITATIONS
+==============================
+
+Instagram has strict rate limiting and API access restrictions.
+For full access to Instagram data, we recommend:
+
+1. Manually visiting the Instagram URL
+   https://www.instagram.com/haroldsphoenix/?hl=en
+
+2. Taking screenshots of relevant content
+
+3. Saving images directly from the profile
+
+4. Noting follower count, post frequency, and engagement level
+
+This information is valuable for underwriting assessment.

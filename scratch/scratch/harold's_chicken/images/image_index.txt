@@ -1,0 +1,33 @@
+GOOGLE IMAGES FOR HAROLD'S CHICKEN
+==================================================
+
+Image #1: Phoenix, Arizona - Chicken Wings ...
+Source: Yelp
+Original URL: https://s3-media0.fl.yelpcdn.com/bphoto/8OZ3UQLOO1JM6Y-B6Xgkkg/348s.jpg
+Local File: google_image_1.jpg
+--------------------------------------------------
+
+Image #2: Harold's Chicken opens in south Phoenix ...
+Source: AZCentral
+Original URL: https://www.azcentral.com/gcdn/presto/2019/10/18/PPHX/4d632b08-d434-4f06-a535-d7ff51d11b7c-HaroldsChicken-6.jpg
+Local File: google_image_2.jpg
+--------------------------------------------------
+
+Image #3: Phoenix, Arizona - Chicken Wings ...
+Source: Yelp
+Original URL: https://s3-media0.fl.yelpcdn.com/bphoto/JOeUN0q9B7mK1rVc4hAfKA/348s.jpg
+Local File: google_image_3.jpg
+--------------------------------------------------
+
+Image #4: Harold's Chicken opens in south Phoenix ...
+Source: AZCentral
+Original URL: https://www.azcentral.com/gcdn/presto/2019/10/18/PPHX/94b7f389-4db1-47b9-8c39-69b0123f9ffc-HaroldsChicken-3.jpg
+Local File: google_image_4.jpg
+--------------------------------------------------
+
+Image #5: Chicken Shack Delivery in Phoenix, AZ ...
+Source: Grubhub
+Original URL: https://res.cloudinary.com/grubhub/image/upload/d_search:browse-images:default.jpg/w_auto,q_auto:low,fl_lossy,dpr_2.0,c_pad,f_auto,h_168/n25zdyoe2vtzy7vdgmac
+Local File: google_image_5.jpg
+--------------------------------------------------
+

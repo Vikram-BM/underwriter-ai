@@ -1,0 +1,1165 @@
+{
+  "search_metadata": {
+    "id": "67fe6cbc2c07c79d4766400a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/20310e67e687ea97/67fe6cbc2c07c79d4766400a.json",
+    "created_at": "2025-04-15 14:27:08 UTC",
+    "processed_at": "2025-04-15 14:27:08 UTC",
+    "google_url": "https://www.google.com/search?q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&oq=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&num=20&safe=active&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/20310e67e687ea97/67fe6cbc2c07c79d4766400a.html",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Harold's Chicken restaurant Phoenix,Arizona",
+    "google_domain": "google.com",
+    "safe": "active",
+    "num": "20",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Harold's Chicken restaurant Phoenix,Arizona",
+    "total_results": 17500,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Results for exact spelling",
+    "results_for": "Phoenix, AZ"
+  },
+  "knowledge_graph": {
+    "title": "Harold's Chicken",
+    "thumbnail": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/3f1390cd04c1adf27a5d0f2c491bffb12817148ea2c40b9ce9e34871325d0fb2.jpeg",
+    "type": "Takeout Restaurant",
+    "entity_type": "related_questions",
+    "kgmid": "/g/11h_zbkqzf",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11h_zbkqzf&hl=en-US&q=Harold%27s+Chicken",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11h_zbkqzf&num=20&q=Harold%27s+Chicken&safe=active",
+    "place_id": "ChIJNVpQfN0PK4cRw14K9Gg75vE",
+    "website": "http://haroldschickenaz.com/",
+    "directions": "https://maps.google.com/maps?num=20&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KTVaUHzdDyuHMcNeCvRoO-bx&daddr=1635+E+Baseline+Rd,+Phoenix,+AZ+85042",
+    "reviews": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzdJMQFG6sMF28TVVh2AtvWlGfG7dHmyBCiWRQvP9rlFOkXgWMmLYE3jfIk5QGYA_WACu4iiKMA7n2QZM4AUT5ydfnFcQKePhwy9sIqIAinVa2eZq6w%3D%3D&q=Harold%27s+Chicken+Reviews&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q0bkNegQILhAE",
+    "description": "Casual takeout joint dishing up popular comfort food such as catfish and chicken, plus pizza puffs.",
+    "local_map": {
+      "image": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/3f1390cd04c1adf27a5d0f2c491bffb1a33511dd565e41a3b41035a7b377326d.webp",
+      "link": "https://www.google.com/maps/place/Harold's+Chicken/data=!4m2!3m1!1s0x0:0xf1e63b68f40a5ec3?sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q_BJ6BAgdEAA",
+      "gps_coordinates": {
+        "latitude": 33.3773739,
+        "longitude": -112.0455848
+      }
+    },
+    "rating": 4.0,
+    "review_count": 1011,
+    "price": "$10\u201320",
+    "price_details": {
+      "distribution": [
+        {
+          "price": "$1\u201310",
+          "percentage": 11.413043
+        },
+        {
+          "price": "$10\u201320",
+          "percentage": 52.173912
+        },
+        {
+          "price": "$20\u201330",
+          "percentage": 19.565218
+        },
+        {
+          "price": "$30\u201350",
+          "percentage": 13.586957
+        }
+      ],
+      "total_reported": 184
+    },
+    "located_in": "The Plaza at South Mountain",
+    "address": "1635 E Baseline Rd, Phoenix, AZ 85042",
+    "address_links": [
+      {
+        "text": "Address",
+        "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=harolds+chicken+address&ludocid=17430684729741041347&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q6BN6BAgnEAI"
+      }
+    ],
+    "phone": "(602) 675-1082",
+    "menu": "haroldschickenaz.com",
+    "menu_links": [
+      {
+        "text": "haroldschickenaz.com",
+        "link": "https://www.haroldschickenaz.com/menu"
+      }
+    ],
+    "raw_hours": "Closed \u22c5 Opens 11 AM",
+    "hours": {
+      "tuesday": {
+        "opens": "11\u202fAM",
+        "closes": "9:30\u202fPM"
+      },
+      "wednesday": {
+        "opens": "11\u202fAM",
+        "closes": "9:30\u202fPM"
+      },
+      "thursday": {
+        "opens": "11\u202fAM",
+        "closes": "9:30\u202fPM"
+      },
+      "friday": {
+        "opens": "11\u202fAM",
+        "closes": "9:30\u202fPM"
+      },
+      "saturday": {
+        "opens": "12",
+        "closes": "9:30\u202fPM"
+      },
+      "sunday_easter": {
+        "opens": "11\u202fAM",
+        "closes": "7:30\u202fPMHours might differ"
+      },
+      "monday": {
+        "opens": "11\u202fAM",
+        "closes": "9:30\u202fPM"
+      }
+    },
+    "mon_tue_wed_thu_fri_sat_sun6_pm": "Usually a little busy9a12p3p6p9pPeople typically spend up to 45 min here",
+    "popular_times": {
+      "live": {
+        "time": "6 PM",
+        "info": "Usually a little busy",
+        "typical_time_spent": "45 min"
+      },
+      "graph_results": {
+        "monday": [
+          {
+            "time": "6\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fAM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "12\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "1\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "2\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 70
+          },
+          {
+            "time": "3\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 80
+          },
+          {
+            "time": "4\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 81
+          },
+          {
+            "time": "5\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 79
+          },
+          {
+            "time": "6\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 72
+          },
+          {
+            "time": "7\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "8\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "9\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "10\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fPM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fAM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "12\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "1\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "2\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "3\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "4\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 61
+          },
+          {
+            "time": "5\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "6\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "7\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "8\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "9\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "10\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fPM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fAM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "12\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "1\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "2\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "3\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "4\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "5\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "6\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 72
+          },
+          {
+            "time": "7\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "8\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 44
+          },
+          {
+            "time": "9\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "10\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fPM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fAM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "12\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "1\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 73
+          },
+          {
+            "time": "2\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "3\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 72
+          },
+          {
+            "time": "4\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 72
+          },
+          {
+            "time": "5\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 72
+          },
+          {
+            "time": "6\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 71
+          },
+          {
+            "time": "7\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "8\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "9\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 29
+          },
+          {
+            "time": "10\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fPM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "6\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fAM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "12\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "1\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 98
+          },
+          {
+            "time": "2\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "3\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 93
+          },
+          {
+            "time": "4\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 89
+          },
+          {
+            "time": "5\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 89
+          },
+          {
+            "time": "6\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 90
+          },
+          {
+            "time": "7\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 76
+          },
+          {
+            "time": "8\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "9\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "10\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fPM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "12\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "1\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "2\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "3\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "4\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "5\u202fPM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 85
+          },
+          {
+            "time": "6\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 79
+          },
+          {
+            "time": "7\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "8\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "9\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "10\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fPM",
+            "busyness_score": 0
+          }
+        ],
+        "sunday": [
+          {
+            "time": "6\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fAM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fAM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "12\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "1\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "2\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 74
+          },
+          {
+            "time": "3\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "4\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "5\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "6\u202fPM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "7\u202fPM",
+            "info": "Usually not too busy",
+            "busyness_score": 38
+          },
+          {
+            "time": "8\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10\u202fPM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11\u202fPM",
+            "busyness_score": 0
+          }
+        ]
+      }
+    },
+    "user_reviews": [
+      {
+        "summary": "Very good fried catfish and lemonade but they dont have a bathroom.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s117450645088901998454!2s0x872b0fdd7c505a35:0xf1e63b68f40a5ec3?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Johnny Cherry Jr.",
+          "link": "https://www.google.com/maps/contrib/117450645088901998454?hl=en-US&ved=1t:31296&ictx=111",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWqDTcLcZ9gimc16PPXrflUD-G_BEEdggXpot2-3apQM4FLHTV0=s40-w40-c-h40-rp-br100"
+        }
+      },
+      {
+        "summary": "Fish was good and the sauce wasn't hot sauce it tasted like ketchup.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s116082518309839459655!2s0x872b0fdd7c505a35:0xf1e63b68f40a5ec3?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Tamiko Cochran",
+          "link": "https://www.google.com/maps/contrib/116082518309839459655?hl=en-US&ved=1t:31296&ictx=111",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI2ckXB9lmEP2xyZ7a3Yds0KPAairD3md6JoNF_GI5kGrhhqw=s40-w40-c-h40-rp-br100"
+        }
+      },
+      {
+        "summary": "Food is outstanding, friendly staff 5 star service..",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s111874958574379447754!2s0x872b0fdd7c505a35:0xf1e63b68f40a5ec3?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Calvin Hampton",
+          "link": "https://www.google.com/maps/contrib/111874958574379447754?hl=en-US&ved=1t:31296&ictx=111",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVse-n-qb6pWkpgrfYQvwjaf1H1SXHzpPh4STVDHhQRbSWx9Q68=s40-w40-c-h40-rp-ba2-br100"
+        }
+      }
+    ],
+    "reviews_from_the_web": [
+      {
+        "company": "Grubhub",
+        "link": "https://www.grubhub.com/restaurant/harolds-chicken-1635-e-baseline-road-phoenix/1410040",
+        "rating": 4.2,
+        "review_count": 404
+      },
+      {
+        "company": "DoorDash",
+        "link": "https://www.doordash.com/store/harold's-chicken-(baseline-rd)-phoenix-725325/",
+        "rating": 4.5,
+        "review_count": 50
+      },
+      {
+        "company": "Facebook",
+        "link": "https://www.facebook.com/p/Harolds-Chicken-AZ-100063613266109/",
+        "rating": 3.9,
+        "review_count": 36
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "How many Harold's chicken locations are there?",
+      "snippet": "Bringing Chicago's renowned Harold's Chicken to over 45 locations in 8 states across the country.",
+      "title": "HOME | Harolds Chicken Corp",
+      "link": "https://www.haroldschickenscorp.com/#:~:text=Bringing%20Chicago's%20renowned%20Harold's%20Chicken,8%20states%20across%20the%20country.",
+      "displayed_link": null,
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IEhhcm9sZCdzIGNoaWNrZW4gbG9jYXRpb25zIGFyZSB0aGVyZT8iLCJsayI6IkdpMW9iM2NnYldGdWVTQm9ZWEp2YkdRbmN5QmphR2xqYTJWdUlHeHZZMkYwYVc5dWN5QmhjbVVnZEdobGNtVSIsImJzIjoiYzQyT3NRckNNQlJGY2Mza1dETG9Rd1VuRmFMT0hVVHBwS000aGpZaHdUWlAwa29wTG9JXzVPN1BtVkJFTUNLdWVmZWNFNUtSYVlJMUZOdzBrSENMZVRZdUlWVTZQUW9ET2FhODBtaEs0RlpBcFlRVmNYUzlzQm1kcUJla19vRElodlQzcWdGZGhnM0pDenlYY1hSWERHaXZibGVCdEYyUkUxbjQzMzd6WkZwS2x6SVZTSXNGb0EtN0k5Zkd5UjhIdHFSejFhS0JfQWRLdG1TNFYtZ3g5d3FyOVE1UUJ2RTR1bFZzUkFmMWU1a0s5TXZQVnJmekJBIiwiaWQiOiJmY192R3otWjc2UENQMms1Tm9QeExuQi1Rb18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IEhhcm9sZCdzIGNoaWNrZW4gbG9jYXRpb25zIGFyZSB0aGVyZT8iLCJsayI6IkdpMW9iM2NnYldGdWVTQm9ZWEp2YkdRbmN5QmphR2xqYTJWdUlHeHZZMkYwYVc5dWN5QmhjbVVnZEdobGNtVSIsImJzIjoiYzQyT3NRckNNQlJGY2Mza1dETG9Rd1VuRmFMT0hVVHBwS000aGpZaHdUWlAwa29wTG9JXzVPN1BtVkJFTUNLdWVmZWNFNUtSYVlJMUZOdzBrSENMZVRZdUlWVTZQUW9ET2FhODBtaEs0RlpBcFlRVmNYUzlzQm1kcUJla19vRElodlQzcWdGZGhnM0pDenlYY1hSWERHaXZibGVCdEYyUkUxbjQzMzd6WkZwS2x6SVZTSXNGb0EtN0k5Zkd5UjhIdHFSejFhS0JfQWRLdG1TNFYtZ3g5d3FyOVE1UUJ2RTR1bFZzUkFmMWU1a0s5TXZQVnJmekJBIiwiaWQiOiJmY192R3otWjc2UENQMms1Tm9QeExuQi1Rb18yIn0%3D"
+    },
+    {
+      "question": "Why is Harold's chicken famous?",
+      "snippet": "The late Harold Piece wanted to bring a large fast food chain to Chicago's South Side, but racism prevented him from owning a national franchise. He started his own. Today, Harold's is world-famous for its fried chicken and special sauces. We visited the #1 Harold's Chicken Shack to learn more about wha.",
+      "title": "Harold's Chicken Shack #88 - YouTube",
+      "date": "Feb 3, 2020",
+      "link": "https://www.youtube.com/watch?v=cYOdzBpb3RU",
+      "displayed_link": "https://www.youtube.com \u203a watch",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IldoeSBpcyBIYXJvbGQncyBjaGlja2VuIGZhbW91cz8iLCJsayI6IkdoNTNhSGtnYVhNZ2FHRnliMnhrSjNNZ1kyaHBZMnRsYmlCbVlXMXZkWE0iLCJicyI6ImM0Mk9zUXJDTUJSRmNjM2tXRExvUXdVbkZhTE9IVVRwcEtNNGhqWWh3VFpQMGtvcExvSV81TzdQbVZCRU1DS3VlZmVjRTVLUmFZSTFGTncwa0hDTGVUWXVJVlU2UFFvRE9hYTgwbWhLNEZaQXBZUVZjWFM5c0JtZHFCZWtfb0RJaHZUM3FnRmRoZzNKQ3p5WGNYUlhER2l2YmxlQnRGMlJFMW40MzM3elpGcEtseklWU0lzRm9BLTdJOWZHeVI4SHRxUnoxYUtCX0FkS3RtUzRWLWd4OXdxcjlRNVFCdkU0dWxWc1JBZjFlNWtLOU12UFZyZnpCQSIsImlkIjoiZmNfdkd6LVo3NlBDUDJrNU5vUHhMbkItUW9fMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IldoeSBpcyBIYXJvbGQncyBjaGlja2VuIGZhbW91cz8iLCJsayI6IkdoNTNhSGtnYVhNZ2FHRnliMnhrSjNNZ1kyaHBZMnRsYmlCbVlXMXZkWE0iLCJicyI6ImM0Mk9zUXJDTUJSRmNjM2tXRExvUXdVbkZhTE9IVVRwcEtNNGhqWWh3VFpQMGtvcExvSV81TzdQbVZCRU1DS3VlZmVjRTVLUmFZSTFGTncwa0hDTGVUWXVJVlU2UFFvRE9hYTgwbWhLNEZaQXBZUVZjWFM5c0JtZHFCZWtfb0RJaHZUM3FnRmRoZzNKQ3p5WGNYUlhER2l2YmxlQnRGMlJFMW40MzM3elpGcEtseklWU0lzRm9BLTdJOWZHeVI4SHRxUnoxYUtCX0FkS3RtUzRWLWd4OXdxcjlRNVFCdkU0dWxWc1JBZjFlNWtLOU12UFZyZnpCQSIsImlkIjoiZmNfdkd6LVo3NlBDUDJrNU5vUHhMbkItUW9fMiJ9"
+    },
+    {
+      "question": "How is Harold's chicken different from other chains?",
+      "snippet": "Harold's chicken is cooked in a mix of half beef tallow and half vegetable oil, while some chains use only vegetable oil. This provides a taste that is more similar to the traditional home-cooked fried chicken that was invented in the American South.",
+      "title": "About Us - Harold's Chicken Downtown Chicago",
+      "link": "https://www.haroldschickendowntown.com/our-legacy#:~:text=Harold's%20chicken%20is%20cooked%20in,invented%20in%20the%20American%20South.",
+      "displayed_link": "https://www.haroldschickendowntown.com \u203a our-legacy",
+      "source_logo": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/fb11a896ec29ddb0816ad009db3952a7711d9b1e9dc49a0c775803e4522f04a1.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IkhvdyBpcyBIYXJvbGQncyBjaGlja2VuIGRpZmZlcmVudCBmcm9tIG90aGVyIGNoYWlucz8iLCJsayI6IkdqTm9iM2NnYVhNZ2FHRnliMnhrSjNNZ1kyaHBZMnRsYmlCa2FXWm1aWEpsYm5RZ1puSnZiU0J2ZEdobGNpQmphR0ZwYm5NIiwiYnMiOiJjNDJPc1FyQ01CUkZjYzNrV0RMb1F3VW5GYUxPSFVUcHBLTTRoallod1RaUDBrb3BMb0lfNU83UG1WQkVNQ0t1ZWZlY0U1S1JhWUkxRk53MGtIQ0xlVFl1SVZVNlBRb0RPYWE4MG1oSzRGWkFwWVFWY1hTOXNCbWRxQmVrX29ESWh2VDNxZ0ZkaGczSkN6eVhjWFJYREdpdmJsZUJ0RjJSRTFuNDMzN3paRnBLbHpJVlNJc0ZvQS03STlmR3lSOEh0cVJ6MWFLQl9BZEt0bVM0Vi1neDl3cXI5UTVRQnZFNHVsVnNSQWYxZTVrSzlNdlBWcmZ6QkEiLCJpZCI6ImZjX3ZHei1aNzZQQ1AyazVOb1B4TG5CLVFvXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IkhvdyBpcyBIYXJvbGQncyBjaGlja2VuIGRpZmZlcmVudCBmcm9tIG90aGVyIGNoYWlucz8iLCJsayI6IkdqTm9iM2NnYVhNZ2FHRnliMnhrSjNNZ1kyaHBZMnRsYmlCa2FXWm1aWEpsYm5RZ1puSnZiU0J2ZEdobGNpQmphR0ZwYm5NIiwiYnMiOiJjNDJPc1FyQ01CUkZjYzNrV0RMb1F3VW5GYUxPSFVUcHBLTTRoallod1RaUDBrb3BMb0lfNU83UG1WQkVNQ0t1ZWZlY0U1S1JhWUkxRk53MGtIQ0xlVFl1SVZVNlBRb0RPYWE4MG1oSzRGWkFwWVFWY1hTOXNCbWRxQmVrX29ESWh2VDNxZ0ZkaGczSkN6eVhjWFJYREdpdmJsZUJ0RjJSRTFuNDMzN3paRnBLbHpJVlNJc0ZvQS03STlmR3lSOEh0cVJ6MWFLQl9BZEt0bVM0Vi1neDl3cXI5UTVRQnZFNHVsVnNSQWYxZTVrSzlNdlBWcmZ6QkEiLCJpZCI6ImZjX3ZHei1aNzZQQ1AyazVOb1B4TG5CLVFvXzIifQ%3D%3D"
+    },
+    {
+      "question": "Who is the CEO of Harold's chicken?",
+      "snippet": "Amazingly, the business is still run by the same family. Kristen Pierce is the CEO of the restaurant chain.",
+      "title": "Harold's Chicken Shack to celebrate 75 years in Chicago - ABC11",
+      "date": "Apr 12, 2024",
+      "link": "https://abc11.com/videoClip/harolds-chicken-shack-fried-mild-sauce-chicago-news/14652029/#:~:text=Amazingly%2C%20the%20business%20is%20still,CEO%20of%20the%20restaurant%20chain.",
+      "displayed_link": "https://abc11.com \u203a videoClip \u203a harolds-chicken-shack-f...",
+      "source_logo": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/fb11a896ec29ddb0816ad009db3952a72080740224d7d6deb19a027774974fa2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgQ0VPIG9mIEhhcm9sZCdzIGNoaWNrZW4/IiwibGsiOiJHaUozYUc4Z2FYTWdkR2hsSUdObGJ5QnZaaUJvWVhKdmJHUW5jeUJqYUdsamEyVnUiLCJicyI6ImM0Mk9zUXJDTUJSRmNjM2tXRExvUXdVbkZhTE9IVVRwcEtNNGhqWWh3VFpQMGtvcExvSV81TzdQbVZCRU1DS3VlZmVjRTVLUmFZSTFGTncwa0hDTGVUWXVJVlU2UFFvRE9hYTgwbWhLNEZaQXBZUVZjWFM5c0JtZHFCZWtfb0RJaHZUM3FnRmRoZzNKQ3p5WGNYUlhER2l2YmxlQnRGMlJFMW40MzM3elpGcEtseklWU0lzRm9BLTdJOWZHeVI4SHRxUnoxYUtCX0FkS3RtUzRWLWd4OXdxcjlRNVFCdkU0dWxWc1JBZjFlNWtLOU12UFZyZnpCQSIsImlkIjoiZmNfdkd6LVo3NlBDUDJrNU5vUHhMbkItUW9fMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobU1teDVhbVpvUVVWQ1QyUnZZMjlXV1dWaVlYbEpaVkZJUTNGdVRGQndaM015YjFBNVpERXdUMHQ1TlRaU01tSlVkbVJqVkU1b1NIazVaRko0ZUUxUGFYTmFTMXBIZVdGUVdVcFJPR05ITWt4MVVVWjJSVjlrVG5OTVVSSVhka2Q2TFZvM05sQkRVREpyTlU1dlVIaE1ia0l0VVc4YUlrRkRSRmhNTkc0Mk5rNXNaR1ZQVTBSTmRXaENSRUpuWVRONFZVRkVTVGRyVUhjIiwiZmN2IjoiMyIsImVpIjoidkd6LVo3NlBDUDJrNU5vUHhMbkItUW8iLCJxYyI6IkNpdG9ZWEp2YkdRbmN5QmphR2xqYTJWdUlISmxjM1JoZFhKaGJuUWdjR2h2Wlc1cGVDQmhjbWw2YjI1aEVBQjlsOGdJUHciLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgQ0VPIG9mIEhhcm9sZCdzIGNoaWNrZW4%2FIiwibGsiOiJHaUozYUc4Z2FYTWdkR2hsSUdObGJ5QnZaaUJvWVhKdmJHUW5jeUJqYUdsamEyVnUiLCJicyI6ImM0Mk9zUXJDTUJSRmNjM2tXRExvUXdVbkZhTE9IVVRwcEtNNGhqWWh3VFpQMGtvcExvSV81TzdQbVZCRU1DS3VlZmVjRTVLUmFZSTFGTncwa0hDTGVUWXVJVlU2UFFvRE9hYTgwbWhLNEZaQXBZUVZjWFM5c0JtZHFCZWtfb0RJaHZUM3FnRmRoZzNKQ3p5WGNYUlhER2l2YmxlQnRGMlJFMW40MzM3elpGcEtseklWU0lzRm9BLTdJOWZHeVI4SHRxUnoxYUtCX0FkS3RtUzRWLWd4OXdxcjlRNVFCdkU0dWxWc1JBZjFlNWtLOU12UFZyZnpCQSIsImlkIjoiZmNfdkd6LVo3NlBDUDJrNU5vUHhMbkItUW9fMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Harold's Chicken",
+      "link": "https://www.haroldschickenaz.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haroldschickenaz.com/&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECEYQAQ",
+      "displayed_link": "https://www.haroldschickenaz.com",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba595c6ec1aca85e7099c52e7139402385cd.png",
+      "snippet": "Harold's Chicken Shack is a Chicago icon. And right out of the gate, the first Arizona location is living up to its heritage.",
+      "snippet_highlighted_words": [
+        "Harold's Chicken",
+        "Arizona"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Menu",
+            "link": "https://www.haroldschickenaz.com/menu",
+            "snippet": "MENU ; Location. 1635 E Baseline Rd suite 105. Phoenix, AZ ..."
+          }
+        ]
+      },
+      "source": "haroldschickenaz.com"
+    },
+    {
+      "position": 2,
+      "title": "Harold's Chicken",
+      "link": "https://www.yelp.com/biz/harold-s-chicken-phoenix",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/biz/harold-s-chicken-phoenix&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECEIQAQ",
+      "displayed_link": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Chicken Wings",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba59a5c249e0f71e25a9a9b8538516e391ad.png",
+      "snippet": "1635 E Baseline Rd. Ste 105. Phoenix, AZ 85042 \u00b7 (602) 675-1082. Call Now \u00b7 Order Takeout or Delivery. Start Order \u00b7 Full menu \u00b7 More Info. Hours \u00b7 Payment methods.",
+      "snippet_highlighted_words": [
+        "1635 E Baseline Rd. Ste 105. Phoenix, AZ 85042"
+      ],
+      "source": "Yelp"
+    },
+    {
+      "position": 3,
+      "title": "Harolds Chicken Shack (@haroldsphoenix)",
+      "link": "https://www.instagram.com/haroldsphoenix/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/haroldsphoenix/%3Fhl%3Den&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECEUQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba597cce97056ee2af7eec26e49b29591d17.png",
+      "snippet": "Harolds Chicken Shack Restaurant. 1635 e. Baseline Road Phoenix AZ 85042. Hours 11a.m.-10p.m. Open Everyday. Help us get to 2k followers!",
+      "snippet_highlighted_words": [
+        "Harolds Chicken",
+        "Restaurant",
+        "Phoenix AZ"
+      ],
+      "source": "Instagram \u00b7 haroldsphoenix"
+    },
+    {
+      "position": 4,
+      "title": "Harold's Chicken Delivery Menu - Phoenix",
+      "link": "https://www.grubhub.com/restaurant/harolds-chicken-1635-e-baseline-road-phoenix/1410040",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.grubhub.com/restaurant/harolds-chicken-1635-e-baseline-road-phoenix/1410040&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECEEQAQ",
+      "displayed_link": "https://www.grubhub.com \u203a ... \u203a South Mountain",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba594629488c8bc615985fb7923ba532ebfd.png",
+      "snippet": "Harold's Chicken Menu Info. American, \u00b7 Chicken, \u00b7 Dinner, \u00b7 Lunch, \u00b7 Lunch Specials, \u00b7 Pizza, \u00b7 Snacks. $$$$$$$. 1635 E Baseline Road Phoenix, AZ 85042. (602) ...",
+      "snippet_highlighted_words": [
+        "Harold's Chicken",
+        "Phoenix",
+        "AZ"
+      ],
+      "source": "Grubhub"
+    },
+    {
+      "position": 5,
+      "title": "HAROLD'S CHICKEN - Restaurant Reviews",
+      "link": "https://www.yelp.com/biz/harold-s-chicken-phoenix?start=40",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/biz/harold-s-chicken-phoenix%3Fstart%3D40&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHgQAQ",
+      "displayed_link": "https://www.yelp.com \u203a ... \u203a Harold\u2019s Chicken",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba595190b0f75d1ef31c561b95e2de13220b.png",
+      "snippet": "HAROLD'S CHICKEN, 1635 E Baseline Rd, Ste 105, Phoenix, AZ 85042, 90 Photos, Mon - 11:00 am - 9:30 pm, Tue - 11:00 am - 9:30 pm, Wed - 11:00 am - 9:30 pm, ...",
+      "snippet_highlighted_words": [
+        "1635 E Baseline Rd, Ste 105, Phoenix, AZ 85042"
+      ],
+      "source": "Yelp"
+    },
+    {
+      "position": 6,
+      "title": "HAROLD'S CHICKEN, Phoenix - Restaurant Reviews, ...",
+      "link": "https://www.tripadvisor.com/Restaurant_Review-g659480-d26931986-Reviews-Harold_s_Chicken-Central_Arizona_Phoenix.html?m=32908",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/Restaurant_Review-g659480-d26931986-Reviews-Harold_s_Chicken-Central_Arizona_Phoenix.html%3Fm%3D32908&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHkQAQ",
+      "displayed_link": "https://www.tripadvisor.com \u203a ... \u203a Phoenix Restaurants",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba5983fe036eaa109d60488f0480d39fb176.png",
+      "snippet": "HAROLD'S CHICKEN, Phoenix - Restaurant Reviews, Phone Number & Reservations - Order Online Food Delivery - Tripadvisor. United StatesArizona (AZ)Central ...",
+      "snippet_highlighted_words": [
+        "HAROLD'S CHICKEN, Phoenix"
+      ],
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 7,
+      "title": "Harold's Chicken AZ (@haroldschickenaz)",
+      "link": "https://www.instagram.com/haroldschickenaz/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/haroldschickenaz/%3Fhl%3Den&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoFCJoBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba5992611ab7fbbcfde9ea6edc375d4a9bc5.png",
+      "snippet": "Harold's Chicken AZ Food & beverage Open Monday-Saturday 11:00-10:00pm Sunday 11:00-8:00 1635 E. Baseline Rd, Phoenix, Arizona 85042 www.haroldschickenaz.com",
+      "snippet_highlighted_words": [
+        "1635 E. Baseline Rd, Phoenix, Arizona 85042"
+      ],
+      "source": "Instagram \u00b7 haroldschickenaz"
+    },
+    {
+      "position": 8,
+      "title": "Harold's Chicken - Phoenix",
+      "link": "https://www.toasttab.com/local/order/harolds-chicken-1635-e-baseline-rd-ste-105-phoenix-az-85042/r-835238b4-14b8-471d-895a-30700bde5902",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.toasttab.com/local/order/harolds-chicken-1635-e-baseline-rd-ste-105-phoenix-az-85042/r-835238b4-14b8-471d-895a-30700bde5902&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHcQAQ",
+      "displayed_link": "https://www.toasttab.com \u203a local \u203a order \u203a harolds-chick...",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba5904470bbf1dc72b5e073cecb93bf81355.png",
+      "snippet": "Harold's Chicken - Phoenix. 1635 E Baseline Rd Ste 105. Phoenix, AZ 85042. Orders through Toast are commission free and go directly to this restaurant ...",
+      "snippet_highlighted_words": [
+        "1635 E Baseline Rd Ste 105"
+      ],
+      "source": "Toast"
+    },
+    {
+      "position": 9,
+      "title": "Order Harold's Chicken (Baseline Rd) - Phoenix, AZ Menu ...",
+      "link": "https://www.doordash.com/store/harold's-chicken-(baseline-rd)-phoenix-725325/?srsltid=AfmBOoqW5T6zhPVULFUH0JNQMU7o4EZHV-98hdDIcsZHFlGRe-YJfWCm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doordash.com/store/harold%27s-chicken-(baseline-rd)-phoenix-725325/%3Fsrsltid%3DAfmBOoqW5T6zhPVULFUH0JNQMU7o4EZHV-98hdDIcsZHFlGRe-YJfWCm&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoFCJsBEAE",
+      "displayed_link": "https://www.doordash.com \u203a store \u203a harold's-chicken-(ba...",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba59514b4d61e3b8a880d9b1ef0cbbace527.png",
+      "snippet": "Get delivery or takeout from Harold's Chicken (Baseline Rd) at 1635 East Baseline Road in Phoenix. Order online and track your order live.",
+      "snippet_highlighted_words": [
+        "1635 East Baseline Road in Phoenix"
+      ],
+      "source": "DoorDash"
+    },
+    {
+      "position": 10,
+      "title": "Harold's Chicken, 1635 E Baseline Rd, Ste 105, Phoenix, ...",
+      "link": "https://www.mapquest.com/us/arizona/harolds-chicken-370907406",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mapquest.com/us/arizona/harolds-chicken-370907406&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHYQAQ",
+      "displayed_link": "https://www.mapquest.com \u203a ... \u203a Arizona \u203a Phoenix",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba5909e75730f30b492f6d9f1bc2e0fb79ba.png",
+      "snippet": "Harold's Chicken in Phoenix, AZ is a popular eatery known for its mouthwatering chicken dishes. Located on E Baseline Rd, this restaurant offers a diverse ...",
+      "snippet_highlighted_words": [
+        "Located on E Baseline Rd"
+      ],
+      "source": "MapQuest"
+    },
+    {
+      "position": 11,
+      "title": "Harold's Chicken - Phoenix, AZ Restaurant | Menu + Delivery",
+      "link": "https://www.seamless.com/menu/harolds-chicken-1635-e-baseline-road-phoenix/1410040",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.seamless.com/menu/harolds-chicken-1635-e-baseline-road-phoenix/1410040&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHMQAQ",
+      "displayed_link": "https://www.seamless.com \u203a Phoenix \u203a South Mountain",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba590ef01264f43ff7a41633e2cda07babbc.png",
+      "snippet": "Chicken Dinners \u00b7 White Dinner \u00b7 $15.95+ \u00b7 Dark Dinner \u00b7 $12.30+ \u00b7 1/2 Mix Dinner \u00b7 $21.75+ \u00b7 2pc Breast \u00b7 $16.30+. Chicken Buckets. 8 pc Dark. **Fries NOT ...",
+      "snippet_highlighted_words": [
+        "Chicken Dinners"
+      ],
+      "source": "Seamless"
+    },
+    {
+      "position": 12,
+      "title": "Harolds Chicken AZ (Phoenix) | Menu",
+      "link": "https://www.ubereats.com/store/harolds-chicken-az-phoenix/C8aYRJoaV5qx5uS32a_W_g?srsltid=AfmBOopgwHbv3i0AwybUV8IwN6qsaQmQBAOWivh3r9WlisrOfBr3wUy5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ubereats.com/store/harolds-chicken-az-phoenix/C8aYRJoaV5qx5uS32a_W_g%3Fsrsltid%3DAfmBOopgwHbv3i0AwybUV8IwN6qsaQmQBAOWivh3r9WlisrOfBr3wUy5&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoFCJkBEAE",
+      "displayed_link": "https://www.ubereats.com \u203a Arizona \u203a Phoenix",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba59bd40ee59add82f4bd701418e8cb63814.png",
+      "snippet": "1635 East Baseline Road, Phoenix, AZ 85042 \u00b7 Wing Dinner \u00b7 Chicken Dinners \u00b7 Seafood Combos \u00b7 Seafood Dinners \u00b7 Livers + Gizzard Dinners \u00b7 Chicken Only Buckets \u00b7 A La ...",
+      "snippet_highlighted_words": [
+        "1635 East Baseline Road, Phoenix, AZ 85042"
+      ],
+      "source": "Uber Eats"
+    },
+    {
+      "position": 13,
+      "title": "Harold's Chicken AZ",
+      "link": "https://www.facebook.com/p/Harolds-Chicken-AZ-100063613266109/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/p/Harolds-Chicken-AZ-100063613266109/&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoFCKEBEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba59a0b28eac37c8e1d38dc10e94caa8fa84.png",
+      "snippet": "We are now accepting online orders! Click link below. PS Please keep in mind orders still need to be picked up.",
+      "snippet_highlighted_words": [
+        "We are now accepting online orders"
+      ],
+      "source": "Facebook \u00b7 Harold's Chicken AZ"
+    },
+    {
+      "position": 14,
+      "title": "What to order at Arizona location of Harold's Fried Chicken ...",
+      "link": "https://www.azcentral.com/story/entertainment/dining/dominic-armato/2019/11/20/what-order-harolds-fried-chicken-phoenix-arizona-menu/2566609001/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.azcentral.com/story/entertainment/dining/dominic-armato/2019/11/20/what-order-harolds-fried-chicken-phoenix-arizona-menu/2566609001/&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoFCJ8BEAE",
+      "displayed_link": "https://www.azcentral.com \u203a story \u203a dining \u203a 2019/11/20",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba5984bbb8445634dfc5fc1b016cbd53f95e.png",
+      "date": "Nov 20, 2019",
+      "snippet": "Where: 1635 E. Baseline Road, Phoenix. ; Hours: 11 a.m.-11 p.m. Mondays through Saturdays. 11 a.m.-8 p.m. Sundays. ; Price: Dinners $5.50-$11.50; ...",
+      "snippet_highlighted_words": [
+        "1635 E. Baseline Road, Phoenix"
+      ],
+      "source": "The Arizona Republic"
+    },
+    {
+      "position": 15,
+      "title": "Harold's Chicken - Phoenix",
+      "link": "https://order.toasttab.com/online/harolds-chicken-1635-e-baseline-rd-ste-105-phoenix-az-85042",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://order.toasttab.com/online/harolds-chicken-1635-e-baseline-rd-ste-105-phoenix-az-85042&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoFCKQBEAE",
+      "displayed_link": "https://order.toasttab.com \u203a online \u203a harolds-chicken-163...",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba592882c700b1ed85a1f335b79ac3e3231d.png",
+      "snippet": "Harold's Chicken - Phoenix Location and Ordering Hours. (602) 675-1082. 1635 E Baseline Rd Ste 105, Phoenix, AZ 85042. Open now \u2022 Closes at 8PM. All hours.",
+      "snippet_highlighted_words": [
+        "Harold's Chicken",
+        "Phoenix",
+        "AZ"
+      ],
+      "source": "Toast"
+    },
+    {
+      "position": 16,
+      "title": "Order Harold's Chicken Arizona",
+      "link": "https://www.doordash.com/store/harolds-chicken-arizona-32181644/?srsltid=AfmBOoqi8cQOeO2hOKuATUm_hG7wOyMJjKWflmpapafakF72KKHPx9gq",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doordash.com/store/harolds-chicken-arizona-32181644/%3Fsrsltid%3DAfmBOoqi8cQOeO2hOKuATUm_hG7wOyMJjKWflmpapafakF72KKHPx9gq&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHoQAQ",
+      "displayed_link": "https://www.doordash.com \u203a store \u203a harolds-chicken-ariz...",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba59a36298c99cb8ebf76801e254dd2fc2b2.png",
+      "snippet": "Get delivery or takeout from Harold's Chicken Arizona at 1635 E Baseline Rd in Phoenix. Order online and track your order live. No delivery fee on your ...",
+      "snippet_highlighted_words": [
+        "1635 E Baseline Rd in Phoenix"
+      ],
+      "source": "DoorDash"
+    },
+    {
+      "position": 17,
+      "title": "Harold's Chicken Reviews - 1635 E Baseline Road ...",
+      "link": "https://www.grubhub.com/restaurant/harolds-chicken-1635-e-baseline-road-phoenix/1410040/reviews",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.grubhub.com/restaurant/harolds-chicken-1635-e-baseline-road-phoenix/1410040/reviews&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHsQAQ",
+      "displayed_link": "https://www.grubhub.com \u203a restaurant \u203a reviews",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba59552a553fdee1e0f9801fe98d57a119d6.png",
+      "snippet": "View 121 reviews of Harold's Chicken 1635 E Baseline Road, Phoenix, AZ, 85042. Explore the Harold's Chicken menu and order food delivery or pickup right now",
+      "snippet_highlighted_words": [
+        "Harold's Chicken",
+        "Phoenix",
+        "AZ",
+        "Harold's Chicken"
+      ],
+      "source": "Grubhub"
+    },
+    {
+      "position": 18,
+      "title": "LOCATIONS | Harolds Chicken Corp",
+      "link": "https://www.haroldschickenscorp.com/locations",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haroldschickenscorp.com/locations&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHUQAQ",
+      "displayed_link": "https://www.haroldschickenscorp.com \u203a locations",
+      "snippet": "Arizona. Harold's Chicken #33. 1635 E Baseline Rd. PHOENIX AZ. (602) 675-1082. California. Harold's Chicken & Bar ... Harold's Chicken & Bar. 5495 Old National ...",
+      "snippet_highlighted_words": [
+        "1635 E Baseline Rd. PHOENIX AZ"
+      ],
+      "source": "Harolds Chicken Corp"
+    },
+    {
+      "position": 19,
+      "title": "Harold's Chicken Shack Review (Phoenix)",
+      "link": "https://justinleonard.app/harolds-chicken-shack-review-phoenix/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://justinleonard.app/harolds-chicken-shack-review-phoenix/&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8QFnoECHQQAQ",
+      "displayed_link": "https://justinleonard.app \u203a Chicken",
+      "favicon": "https://serpapi.com/searches/67fe6cbc2c07c79d4766400a/images/2f3dfc071dac77f24e4b8e0793fbba5975476e2ed00d67d3e004d74b8ff24bef.png",
+      "date": "Sep 3, 2023",
+      "snippet": "Harold's Chicken Shack Review (Phoenix) \u00b7 1635 E Baseline Rd, Ste 105, Phoenix, AZ 85042 \u00b7 (602) 675-1082.",
+      "snippet_highlighted_words": [
+        "1635 E Baseline Rd, Ste 105, Phoenix, AZ 85042"
+      ],
+      "source": "justinleonard.app"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Harold's chicken restaurant phoenix arizona reviews",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=Harold%27s+chicken+restaurant+phoenix+arizona+reviews&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQixARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+chicken+restaurant+phoenix+arizona+reviews&safe=active"
+    },
+    {
+      "block_position": 1,
+      "query": "Harold's chicken restaurant phoenix arizona phone number",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=Harold%27s+chicken+restaurant+phoenix+arizona+phone+number&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQiwARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+chicken+restaurant+phoenix+arizona+phone+number&safe=active"
+    },
+    {
+      "block_position": 1,
+      "query": "Harold's chicken restaurant phoenix arizona menu",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=Harold%27s+chicken+restaurant+phoenix+arizona+menu&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQivARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+chicken+restaurant+phoenix+arizona+menu&safe=active"
+    },
+    {
+      "block_position": 1,
+      "query": "Harold's chicken restaurant phoenix arizona locations",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=Harold%27s+chicken+restaurant+phoenix+arizona+locations&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQisARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+chicken+restaurant+phoenix+arizona+locations&safe=active"
+    },
+    {
+      "block_position": 1,
+      "query": "Harold's chicken restaurant phoenix arizona prices",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=Harold%27s+chicken+restaurant+phoenix+arizona+prices&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQinARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+chicken+restaurant+phoenix+arizona+prices&safe=active"
+    },
+    {
+      "block_position": 1,
+      "query": "harold's chicken - phoenix menu",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=harold%27s+chicken+-+phoenix+menu&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQijARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=harold%27s+chicken+-+phoenix+menu&safe=active"
+    },
+    {
+      "block_position": 1,
+      "query": "Harold's chicken restaurant phoenix arizona closed",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=Harold%27s+chicken+restaurant+phoenix+arizona+closed&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQidARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+chicken+restaurant+phoenix+arizona+closed&safe=active"
+    },
+    {
+      "block_position": 1,
+      "query": "Harold's Chicken locations",
+      "link": "https://www.google.com/search?num=20&safe=active&sca_esv=3a618e889b997b30&q=Harold%27s+Chicken+locations&sa=X&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q1QJ6BQiYARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+locations&safe=active"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=20&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=20&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=40&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=60&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=80&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=100&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=120&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=140&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=160&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=Harold's+Chicken+restaurant+Phoenix,Arizona&num=20&safe=active&sca_esv=3a618e889b997b30&ei=vGz-Z76PCP2k5NoPxLnB-Qo&start=180&sa=N&sstk=Af40H4UwSFDpUJdFDfsJDCwL_5-0WYPaSA3eKmy52wtkU-8UOUUxwH14dauzB9WHTYVPyqkSpZtPvOnf7srzhATnnKkr9G2nnht5Ew&ved=2ahUKEwi-3aa1n9qMAxV9ElkFHcRcMK8Q8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=20",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=20",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=20",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=40",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=60",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=80",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=100",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=120",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=140",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=160",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Harold%27s+Chicken+restaurant+Phoenix%2CArizona&safe=active&start=180"
+    }
+  }
+}

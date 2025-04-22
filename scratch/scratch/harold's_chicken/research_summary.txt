@@ -1,0 +1,21 @@
+RESEARCH SUMMARY FOR HAROLD'S CHICKEN
+==================================================
+
+LINKS:
+----------
+Yelp: https://www.yelp.com/biz/harold-s-chicken-phoenix
+Instagram: https://www.instagram.com/haroldsphoenix/?hl=en
+Website: https://www.haroldschickenaz.com/
+Google_maps: https://www.mapquest.com/us/arizona/harolds-chicken-370907406
+Tripadvisor: https://www.tripadvisor.com/Restaurant_Review-g659480-d26931986-Reviews-Harold_s_Chicken-Central_Arizona_Phoenix.html?m=32908
+
+FILES GENERATED:
+---------------
+Yelp Reviews: [] reviews collected
+Instagram: Profile data collected
+Google Images: 5 images downloaded
+Instagram Images: 0 images downloaded
+
+FULL REPORT:
+------------
+The full underwriting report is available at: scratch\harold's_chicken/underwriting_report.md

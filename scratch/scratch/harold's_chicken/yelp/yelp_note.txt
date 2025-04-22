@@ -1,0 +1,16 @@
+YELP DATA COLLECTION NOTE
+==============================
+
+Automated scraping was limited. For complete Yelp data, we recommend:
+
+1. Manually visiting the Yelp page at: https://www.yelp.com/biz/harold-s-chicken-phoenix
+
+2. Noting the overall star rating
+
+3. Reading the most recent and most helpful reviews
+
+4. Looking for any health code violations or complaints
+
+5. Checking business hours and peak times
+
+This information is highly valuable for underwriting assessment.

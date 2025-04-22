@@ -1,0 +1,25 @@
+{
+  "restaurant_name": "Harold's Chicken",
+  "location": "Phoenix,Arizona",
+  "relevant_links": {
+    "yelp": "https://www.yelp.com/biz/harold-s-chicken-phoenix",
+    "instagram": "https://www.instagram.com/haroldsphoenix/?hl=en",
+    "website": "https://www.haroldschickenaz.com/",
+    "google_maps": "https://www.mapquest.com/us/arizona/harolds-chicken-370907406",
+    "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g659480-d26931986-Reviews-Harold_s_Chicken-Central_Arizona_Phoenix.html?m=32908"
+  },
+  "research_date": "2025-04-15",
+  "instagram_profile": {
+    "username": "",
+    "full_name": "",
+    "biography": "Instagram profile for ",
+    "followers": "Unknown - Instagram API blocked",
+    "followees": "Unknown - Instagram API blocked",
+    "external_url": "",
+    "posts_count": "Unknown - Instagram API blocked",
+    "is_private": false,
+    "note": "This is estimated data due to Instagram API restrictions"
+  },
+  "google_images_count": 5,
+  "instagram_images_count": 0
+}

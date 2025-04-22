@@ -1,0 +1,646 @@
+{
+  "search_metadata": {
+    "id": "67fe6cc0c057491732da2b0f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3b3b08f47b6f2528/67fe6cc0c057491732da2b0f.json",
+    "created_at": "2025-04-15 14:27:12 UTC",
+    "processed_at": "2025-04-15 14:27:12 UTC",
+    "yelp_url": "https://www.yelp.com/search?find_desc=Harold%27s+Chicken&find_loc=Phoenix%2CArizona",
+    "raw_html_file": "https://serpapi.com/searches/3b3b08f47b6f2528/67fe6cc0c057491732da2b0f.html",
+    "total_time_taken": 3.52
+  },
+  "search_parameters": {
+    "engine": "yelp",
+    "find_desc": "Harold's Chicken",
+    "find_loc": "Phoenix,Arizona"
+  },
+  "filters": {
+    "category": [
+      {
+        "text": "Food Delivery Services",
+        "value": "fooddeliveryservices"
+      },
+      {
+        "text": "Fast Food",
+        "value": "hotdogs"
+      },
+      {
+        "text": "Fish & Chips",
+        "value": "fishnchips"
+      },
+      {
+        "text": "Soul Food",
+        "value": "soulfood"
+      },
+      {
+        "text": "Halal",
+        "value": "halal"
+      },
+      {
+        "text": "Cheesesteaks",
+        "value": "cheesesteaks"
+      },
+      {
+        "text": "Sports Bars",
+        "value": "sportsbars"
+      },
+      {
+        "text": "Comfort Food",
+        "value": "comfortfood"
+      },
+      {
+        "text": "Southern",
+        "value": "southern"
+      },
+      {
+        "text": "American",
+        "value": "tradamerican"
+      },
+      {
+        "text": "Chicken Shop",
+        "value": "chickenshop"
+      },
+      {
+        "text": "Chicken Wings",
+        "value": "chicken_wings"
+      }
+    ],
+    "price": [
+      {
+        "text": "$",
+        "value": "RestaurantsPriceRange2.1"
+      },
+      {
+        "text": "$$",
+        "value": "RestaurantsPriceRange2.2"
+      },
+      {
+        "text": "$$$",
+        "value": "RestaurantsPriceRange2.3"
+      },
+      {
+        "text": "$$$$",
+        "value": "RestaurantsPriceRange2.4"
+      }
+    ],
+    "distance": [
+      {
+        "text": "Biking (2 mi.)",
+        "value": "g:-112.11908340454102,33.61304676018743,-112.06792831420898,33.65592371977747"
+      },
+      {
+        "text": "Bird's-eye View",
+        "value": "g:-112.19581604003906,33.548834378712684,-111.99119567871094,33.72034189899486"
+      },
+      {
+        "text": "Within 4 blocks",
+        "value": "g:-112.09670305252075,33.63184378846343,-112.09030866622925,33.63720340625724"
+      },
+      {
+        "text": "Walking (1 mi.)",
+        "value": "g:-112.10629463195801,33.62376800118811,-112.08071708679199,33.64520648119227"
+      },
+      {
+        "text": "Driving (5 mi.)",
+        "value": "g:-112.14466094970703,33.59174327144985,-112.04235076904297,33.6774970449755"
+      }
+    ]
+  },
+  "inline_ads": [
+    {
+      "place_ids": [
+        "ZNCyJyGk0UN4vikB7QEVKg",
+        "extramile-chandler"
+      ],
+      "title": "ExtraMile",
+      "link": "https://www.yelp.com/adredir?ad_business_id=ZNCyJyGk0UN4vikB7QEVKg&amp;campaign_id=yRH5F2tJXI2Qd6i6-jPj9A&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fextramile-chandler&amp;request_id=be14e5e750e78b31&amp;signature=fd07ba5d00d72b79ab2788519f6ed791e37f5ccdfebe0ca43105bedae7cd8d61&amp;slot=0",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=ZNCyJyGk0UN4vikB7QEVKg&start=0",
+      "categories": [
+        {
+          "title": "Fast Food",
+          "link": "https://www.yelp.com/search?find_desc=Fast+Food&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Convenience Stores",
+          "link": "https://www.yelp.com/search?find_desc=Convenience+Stores&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Gas Stations",
+          "link": "https://www.yelp.com/search?find_desc=Gas+Stations&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "reviews": 1,
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=ZNCyJyGk0UN4vikB7QEVKg&amp;click_origin=search_results_direction&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fextramile-chandler&amp;request_id=be14e5e750e78b31&amp;signature=832140b85d6223e0033094e8f5a46fe08cd187ec829b8f38fa184aef4f12a518&amp;slot=0"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/adphoto/qfGuYdA47MwYDR9t5NbASQ/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "ygKRVzf8aOwqh78pbuRBgg",
+        "panda-express-phoenix-22"
+      ],
+      "title": "Panda Express",
+      "link": "https://www.yelp.com/adredir?ad_business_id=ygKRVzf8aOwqh78pbuRBgg&amp;campaign_id=XZkdLEuVB0LzLPnkblqqmQ&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fpanda-express-phoenix-22&amp;request_id=be14e5e750e78b31&amp;signature=1ea996cbd7b317f39721eb02b73e16fbc9063e9c23185193bb3d4ffd8fe64aaf&amp;slot=1",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=ygKRVzf8aOwqh78pbuRBgg&start=0",
+      "categories": [
+        {
+          "title": "Chinese",
+          "link": "https://www.yelp.com/search?find_desc=Chinese&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Fast Food",
+          "link": "https://www.yelp.com/search?find_desc=Fast+Food&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "reviews": 70,
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=ygKRVzf8aOwqh78pbuRBgg&amp;click_origin=search_results_direction&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fpanda-express-phoenix-22&amp;request_id=be14e5e750e78b31&amp;signature=157648a8b90c54d7ac501a87a795ade0c382e79af2e2f02605fbd39dee6b983b&amp;slot=1"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/g86Wh_4pBMcDbYNX5nn1cA/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "5Aa43lrbSNCuXHz1Vpt-Ag",
+        "subway-phoenix-207"
+      ],
+      "title": "Subway",
+      "link": "https://www.yelp.com/adredir?ad_business_id=5Aa43lrbSNCuXHz1Vpt-Ag&amp;campaign_id=bZYgp4sYfwXLkxtrQz4eQw&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsubway-phoenix-207&amp;request_id=be14e5e750e78b31&amp;signature=3e3dba9fc5b47b7b9fcef558e30c81a86d2a9216d9b0c48843aef8ced1cf4ee0&amp;slot=2",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=5Aa43lrbSNCuXHz1Vpt-Ag&start=0",
+      "categories": [
+        {
+          "title": "Fast Food",
+          "link": "https://www.yelp.com/search?find_desc=Fast+Food&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Sandwiches",
+          "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$",
+      "rating": 2.9,
+      "reviews": 38,
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=5Aa43lrbSNCuXHz1Vpt-Ag&amp;click_origin=search_results_direction&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fsubway-phoenix-207&amp;request_id=be14e5e750e78b31&amp;signature=a30c8929903a69b5ac60f5fa838a1d4203bde2439e45e2036deec9722c017bad&amp;slot=2"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/9ETgfGlESfhbhbhao-gYSA/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "0_Yc6blfiI9A6Q8bKjYLSQ",
+        "taco-bell-phoenix-53"
+      ],
+      "title": "Taco Bell",
+      "link": "https://www.yelp.com/adredir?ad_business_id=0_Yc6blfiI9A6Q8bKjYLSQ&amp;campaign_id=djJki4CBZduU8vL5Br5RSg&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Ftaco-bell-phoenix-53&amp;request_id=be14e5e750e78b31&amp;signature=6043039080c34aaf7ffa5f3c5a84f125a9b1a1ce840e893a3671d118818cdf0b&amp;slot=3",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=0_Yc6blfiI9A6Q8bKjYLSQ&start=0",
+      "categories": [
+        {
+          "title": "Fast Food",
+          "link": "https://www.yelp.com/search?find_desc=Fast+Food&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$",
+      "reviews": 37,
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=0_Yc6blfiI9A6Q8bKjYLSQ&amp;click_origin=search_results_direction&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Ftaco-bell-phoenix-53&amp;request_id=be14e5e750e78b31&amp;signature=46bb09020a133eeaa0d59e7441e9a7225975bc8de0edd7d4b64960375499c4f8&amp;slot=3"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/__stvja2zsxmMmZkyL5U1w/348s.jpg"
+    }
+  ],
+  "ads_results": [
+    {
+      "place_ids": [
+        "OASX1Yrgq_7R1PsYpixRcw",
+        "venezias-new-york-style-pizzeria-phoenix-4"
+      ],
+      "title": "Venezia\u2019s New York Style Pizzeria",
+      "link": "https://www.yelp.com/adredir?ad_business_id=OASX1Yrgq_7R1PsYpixRcw&amp;campaign_id=Hyx7kZcdZOUyXp9PNupMNQ&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fvenezias-new-york-style-pizzeria-phoenix-4&amp;request_id=be14e5e750e78b31&amp;signature=f6e2519febda76618d04372b096b9fe403631cca8e054b43d584f81cbfe7f727&amp;slot=0",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=OASX1Yrgq_7R1PsYpixRcw&start=0",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Pizza",
+          "link": "https://www.yelp.com/search?find_desc=Pizza&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.0,
+      "reviews": 768,
+      "highlights": [
+        "43 years in business",
+        "Discounts available",
+        "Vegan friendly",
+        "Family-owned & operated",
+        "Kid friendly",
+        "Catering service",
+        "On their website: <b>fast food</b>"
+      ],
+      "phone": "(602) 726-4420",
+      "snippet": "This review was originally two stars. After writing it, the manager contacted me. He was quite fair about the problems, and has worked to correct\u2026",
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=OASX1Yrgq_7R1PsYpixRcw&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fvenezias-new-york-style-pizzeria-phoenix-4&amp;request_id=be14e5e750e78b31&amp;signature=df7fe0ee383205959ede6f39440a80c8c7bb899641cf44790237e33f586628db&amp;slot=0"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/xr8J_bay8Wl1uvuHdGbRoQ/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "gNZjwxjzVZspOn0AqQ7iZg",
+        "speedy-fried-and-grill-phoenix"
+      ],
+      "title": "Speedy Fried & Grill",
+      "link": "https://www.yelp.com/adredir?ad_business_id=gNZjwxjzVZspOn0AqQ7iZg&amp;campaign_id=iqF-7qTaFZYlYF1Ecq19EQ&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fspeedy-fried-and-grill-phoenix&amp;request_id=be14e5e750e78b31&amp;signature=837658917e374d899a56214a27cbfe723e7d9780a927fad5c7013b0f0ddf9ac7&amp;slot=1",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=gNZjwxjzVZspOn0AqQ7iZg&start=0",
+      "categories": [
+        {
+          "title": "Cheesesteaks",
+          "link": "https://www.yelp.com/search?find_desc=Cheesesteaks&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Fish & Chips",
+          "link": "https://www.yelp.com/search?find_desc=Fish+%26+Chips&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Burgers",
+          "link": "https://www.yelp.com/search?find_desc=Burgers&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "rating": 5.0,
+      "reviews": 1,
+      "highlights": [
+        "Family-owned & operated",
+        "Speaks Spanish",
+        "Grab-and-go",
+        "Minority-owned & operated",
+        "Free parking",
+        "Sports on TV"
+      ],
+      "phone": "(602) 273-0747",
+      "snippet": "Escape into a world of flavor with a sandwich that\u2019s crafted to perfection; whether dining in or opting for delivery, elevate your lunch to new\u2026",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=gNZjwxjzVZspOn0AqQ7iZg&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fspeedy-fried-and-grill-phoenix%3Fshow_platform_modal%3DTrue&amp;request_id=be14e5e750e78b31&amp;signature=ec4e5a38f80037a1a0926aa6fb6e44c0d911f92c8d1a84e7be0863cd173fb3de&amp;slot=1"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/AXrsI5jr9DclJrxdB7Kbww/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "ZCC2rUvs2ydCzR6MjwnOQg",
+        "smashburger-phoenix-9"
+      ],
+      "title": "Smashburger",
+      "link": "https://www.yelp.com/adredir?ad_business_id=ZCC2rUvs2ydCzR6MjwnOQg&amp;campaign_id=JXcT36IgbIpazOdt7sozBw&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsmashburger-phoenix-9&amp;request_id=be14e5e750e78b31&amp;signature=731d2ee6409d7b4164f06651b09f3cac214068caf661d537ea16975fab1512ed&amp;slot=2",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=ZCC2rUvs2ydCzR6MjwnOQg&start=0",
+      "categories": [
+        {
+          "title": "Fast Food",
+          "link": "https://www.yelp.com/search?find_desc=Fast+Food&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Burgers",
+          "link": "https://www.yelp.com/search?find_desc=Burgers&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$",
+      "rating": 3.3,
+      "reviews": 157,
+      "highlights": [
+        "Casual dining",
+        "Established in 2007",
+        "Free WiFi",
+        "Kid friendly"
+      ],
+      "phone": "(602) 888-0567",
+      "snippet": "I came in the other day and wasn't sure on what I wanted to eat because I recently stopped eating meat...originally I was thinking the sweet potato\u2026",
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=ZCC2rUvs2ydCzR6MjwnOQg&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fsmashburger-phoenix-9&amp;request_id=be14e5e750e78b31&amp;signature=a7a08f9136644027705cb0f60916e4e81877d634e70725b346cfe57f34e4c154&amp;slot=2"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/8K5hLqFkElA56TsSmuUQcg/348s.jpg"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "place_ids": [
+        "XdD1A397Ml-S_ijC4AdebA",
+        "harold-s-chicken-phoenix"
+      ],
+      "title": "Harold\u2019s Chicken",
+      "link": "https://www.yelp.com/biz/harold-s-chicken-phoenix?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=XdD1A397Ml-S_ijC4AdebA&start=0",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "rating": 3.2,
+      "reviews": 178,
+      "phone": "(602) 675-1082",
+      "snippet": "took me back down memory lane of when I lived in Chicago having Harold's Chicken with my family.",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/XdD1A397Ml-S_ijC4AdebA?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/JOeUN0q9B7mK1rVc4hAfKA/348s.jpg"
+    },
+    {
+      "position": 2,
+      "place_ids": [
+        "ezncNe5TpXary1KR2TZnDA",
+        "chicagos-chicken-shack-tempe"
+      ],
+      "title": "Chicago\u2019s Chicken Shack",
+      "link": "https://www.yelp.com/biz/chicagos-chicken-shack-tempe?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=ezncNe5TpXary1KR2TZnDA&start=0",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$",
+      "rating": 3.6,
+      "reviews": 121,
+      "phone": "(480) 687-7070",
+      "snippet": "I just moved here from the south side of Chicago and frequent Harold's Chicken Shack weekly.",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/qaWgfnlip43gtFZrZ7_5CQ/348s.jpg"
+    },
+    {
+      "position": 3,
+      "place_ids": [
+        "09WU2y5g57gaPTjhD2NtBg",
+        "guss-world-famous-fried-chicken-van-buren-phoenix"
+      ],
+      "title": "Gus\u2019s World Famous Fried Chicken - Van Buren",
+      "link": "https://www.yelp.com/biz/guss-world-famous-fried-chicken-van-buren-phoenix?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=09WU2y5g57gaPTjhD2NtBg&start=0",
+      "categories": [
+        {
+          "title": "Chicken Shop",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Shop&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Southern",
+          "link": "https://www.yelp.com/search?find_desc=Southern&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Soul Food",
+          "link": "https://www.yelp.com/search?find_desc=Soul+Food&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.4,
+      "reviews": 296,
+      "highlights": [
+        "Waitlist opens at 11:00 am"
+      ],
+      "phone": "(602) 601-4901",
+      "snippet": "Their chicken is excellent. If you like hot and spicy Louisiana fried chicken, they are the place to...",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/09WU2y5g57gaPTjhD2NtBg?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/W0iUcy2a5zanXK_WjQ7WcA/348s.jpg"
+    },
+    {
+      "position": 4,
+      "place_ids": [
+        "KVfzSFTkCjipsIYXe3qEdg",
+        "mr-fries-man-peoria-peoria"
+      ],
+      "title": "Mr Fries Man - Peoria",
+      "link": "https://www.yelp.com/biz/mr-fries-man-peoria-peoria?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=KVfzSFTkCjipsIYXe3qEdg&start=0",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "rating": 4.6,
+      "reviews": 94,
+      "snippet": "I haven't had fried chicken so delicious in a VERY long time. Highly recommend the buffalo ranch...",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/KVfzSFTkCjipsIYXe3qEdg?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/wfNGjjtBwDH5zKgvjcZxyQ/348s.jpg"
+    },
+    {
+      "position": 5,
+      "place_ids": [
+        "eMnbMsJ1DWpWwNXfOek6Ug",
+        "chickii-glendale"
+      ],
+      "title": "Chickii",
+      "link": "https://www.yelp.com/biz/chickii-glendale?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=eMnbMsJ1DWpWwNXfOek6Ug&start=0",
+      "categories": [
+        {
+          "title": "Chicken Shop",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Shop&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Thai",
+          "link": "https://www.yelp.com/search?find_desc=Thai&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Halal",
+          "link": "https://www.yelp.com/search?find_desc=Halal&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.7,
+      "reviews": 241,
+      "phone": "(602) 509-6588",
+      "snippet": "If you love Thai food and you love fried chicken, you'll love this place.",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/eMnbMsJ1DWpWwNXfOek6Ug?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/0n2HkZS6T18ywQq3dRQoGg/348s.jpg"
+    },
+    {
+      "position": 6,
+      "place_ids": [
+        "Uvxf4EOFBQW1Z_k2gK9qfg",
+        "tipsy-chicken-mesa"
+      ],
+      "title": "Tipsy Chicken",
+      "link": "https://www.yelp.com/biz/tipsy-chicken-mesa?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=Uvxf4EOFBQW1Z_k2gK9qfg&start=0",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Asian Fusion",
+          "link": "https://www.yelp.com/search?find_desc=Asian+Fusion&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.4,
+      "reviews": 209,
+      "phone": "(480) 265-8766",
+      "snippet": "The fried chicken here is so delicious and crispy and crunchy.",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/Uvxf4EOFBQW1Z_k2gK9qfg?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/7mI-58qIIiPq8lhGRqYyxg/348s.jpg"
+    },
+    {
+      "position": 7,
+      "place_ids": [
+        "HmOsUTXGc3QhRBTyL4Pmig",
+        "crazy-mikes-wings-glendale"
+      ],
+      "title": "Crazy Mike\u2019s Wings",
+      "link": "https://www.yelp.com/biz/crazy-mikes-wings-glendale?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=HmOsUTXGc3QhRBTyL4Pmig&start=0",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Fast Food",
+          "link": "https://www.yelp.com/search?find_desc=Fast+Food&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "American",
+          "link": "https://www.yelp.com/search?find_desc=American&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.4,
+      "reviews": 437,
+      "phone": "(623) 463-6881",
+      "snippet": "I'm pretty sure this is Korean fried chicken but don't hold me to it. My favorite flavors are garlic...",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/HmOsUTXGc3QhRBTyL4Pmig?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/BNEPshFIHuUHkct-iFCWtA/348s.jpg"
+    },
+    {
+      "position": 8,
+      "place_ids": [
+        "8kLCE1mX5_tkAnIHVpxyGw",
+        "sneakybird-scottsdale-4"
+      ],
+      "title": "sneakybird",
+      "link": "https://www.yelp.com/biz/sneakybird-scottsdale-4?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=8kLCE1mX5_tkAnIHVpxyGw&start=0",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Chicken Shop",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Shop&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Beer Bar",
+          "link": "https://www.yelp.com/search?find_desc=Beer+Bar&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.5,
+      "reviews": 302,
+      "highlights": [
+        "Locally owned & operated",
+        "Sports on TV",
+        "Kid friendly",
+        "Casual dining",
+        "Gluten-free friendly",
+        "Catering service"
+      ],
+      "phone": "(602) 830-6368",
+      "snippet": "Tried this place recently and it was a nice change to not have fried chicken.",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/8kLCE1mX5_tkAnIHVpxyGw?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Rt4ribs11qL_xTh3VN7q-w/348s.jpg"
+    },
+    {
+      "position": 9,
+      "place_ids": [
+        "EhQQG0TmCebL08LjosQICA",
+        "hot-chicken-alley-phoenix-2"
+      ],
+      "title": "Hot Chicken Alley",
+      "link": "https://www.yelp.com/biz/hot-chicken-alley-phoenix-2?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=EhQQG0TmCebL08LjosQICA&start=0",
+      "categories": [
+        {
+          "title": "Chicken Shop",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Shop&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Sandwiches",
+          "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.9,
+      "reviews": 356,
+      "phone": "(602) 675-2407",
+      "snippet": "Greenway Rd and were pleasantly surprised when we bit into freshly fried chicken tenders lightly...",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Mp8SVY1kFjOaBpP4TqnaxQ/348s.jpg"
+    },
+    {
+      "position": 10,
+      "place_ids": [
+        "S_bgbf7NtBXSGdhI_wSdPw",
+        "gus-s-world-famous-fried-chicken-camelback-phoenix-2"
+      ],
+      "title": "Gus\u2019s World Famous Fried Chicken - Camelback",
+      "link": "https://www.yelp.com/biz/gus-s-world-famous-fried-chicken-camelback-phoenix-2?osq=Harold%27s+Chicken",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=S_bgbf7NtBXSGdhI_wSdPw&start=0",
+      "categories": [
+        {
+          "title": "Chicken Shop",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Shop&amp;find_loc=Phoenix%2C+AZ"
+        },
+        {
+          "title": "Southern",
+          "link": "https://www.yelp.com/search?find_desc=Southern&amp;find_loc=Phoenix%2C+AZ"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.4,
+      "reviews": 220,
+      "highlights": [
+        "Waitlist opens at 11:00 am"
+      ],
+      "phone": "(602) 612-4138",
+      "snippet": "It is hands-down, the best fried chicken on planet Earth. I order it using Uber eats and I also eat...",
+      "button": {
+        "text": "Order",
+        "link": "https://www.yelp.com/biz/S_bgbf7NtBXSGdhI_wSdPw?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/COxFO9wY5VLyfOpEMaZCAw/348s.jpg"
+    }
+  ],
+  "pagination": {
+    "next": "https://www.yelp.com/search?find_desc=Harold's+Chicken&find_loc=Phoenix%2CArizona&start=10"
+  },
+  "serpapi_pagination": {
+    "next_link": "https://serpapi.com/search.json?engine=yelp&find_desc=Harold%27s+Chicken&find_loc=Phoenix%2CArizona&start=10",
+    "next": "https://serpapi.com/search.json?engine=yelp&find_desc=Harold%27s+Chicken&find_loc=Phoenix%2CArizona&start=10"
+  }
+}

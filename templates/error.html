@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error - Restaurant Underwriter AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Restaurant Underwriter AI</h1>
+            <p>Error</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2>An Error Occurred</h2>
+            <div class="error-message">
+                {{ error }}
+            </div>
+            <div style="margin-top: 30px; text-align: center;">
+                <a href="/" class="btn">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "search_metadata": {
+    "id": "67fe6cc343957c03c69ebcf7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d73ac0f4e11417d9/67fe6cc343957c03c69ebcf7.json",
+    "created_at": "2025-04-15 14:27:15 UTC",
+    "processed_at": "2025-04-15 14:27:15 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/harold-s-chicken-phoenix",
+    "raw_html_file": "https://serpapi.com/searches/d73ac0f4e11417d9/67fe6cc343957c03c69ebcf7.html",
+    "prettify_html_file": "https://serpapi.com/searches/d73ac0f4e11417d9/67fe6cc343957c03c69ebcf7.prettify",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 0,
+    "num": "49",
+    "place_id": "harold-s-chicken-phoenix"
+  },
+  "search_information": {
+    "reviews_results_state": "Fully empty"
+  },
+  "error": "Yelp Reviews hasn't returned any results for this query."
+}

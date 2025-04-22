@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Underwriter AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Restaurant Underwriter AI</h1>
+            <p>Analyze restaurant risk and determine insurance eligibility</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2>Restaurant Analysis</h2>
+            <p>Submit a restaurant for risk assessment and insurance eligibility determination.</p>
+            
+            <form action="/analyze" method="post">
+                <div class="form-group">
+                    <label for="data_source">Data Source:</label>
+                    <select name="data_source" id="data_source">
+                        <option value="sample">Sample Data (Demo)</option>
+                        <option value="xano" selected>Xano API</option>
+                    </select>
+                </div>
+                
+                <div class="form-group" id="form_id_group">
+                    <label for="form_id">Form ID:</label>
+                    <input type="text" name="form_id" id="form_id" value="25" placeholder="e.g., 25">
+                    <p class="help-text">The Form ID is used to fetch restaurant data from the Xano API (including Google images).</p>
+                </div>
+                
+                <div class="form-group" id="business_id_group">
+                    <label for="business_id">Yelp Business ID:</label>
+                    <input type="text" name="business_id" id="business_id" placeholder="e.g., xKIv_b2L2pUHmsoJ-xOepg">
+                    <p class="help-text">The Yelp Business ID for direct lookup of reviews.</p>
+                </div>
+                
+                <div class="form-group" id="restaurant_info_group">
+                    <label for="restaurant_name">Restaurant Name:</label>
+                    <input type="text" name="restaurant_name" id="restaurant_name" placeholder="e.g., Gran Morsi">
+                    
+                    <label for="restaurant_address">Restaurant Address:</label>
+                    <input type="text" name="restaurant_address" id="restaurant_address" placeholder="e.g., 22 Warren St, New York, NY 10007">
+                    <p class="help-text">Provide both name and address to look up a restaurant without a business ID.</p>
+                </div>
+                
+                <div class="form-group">
+                    <button type="submit" class="btn">Analyze Restaurant</button>
+                    <a href="/demo" class="btn btn-secondary">Quick Demo</a>
+                </div>
+            </form>
+        </div>
+        
+        <div class="card">
+            <h2>About the Underwriter AI</h2>
+            <p>This AI system analyzes restaurant data to determine insurance eligibility based on:</p>
+            <ul>
+                <li>Sentiment analysis of customer reviews</li>
+                <li>Image analysis of restaurant photos</li>
+                <li>Identification of safety and risk factors</li>
+                <li>Business classification and operations assessment</li>
+                <li>Compliance with underwriting guidelines</li>
+            </ul>
+            <p>The system provides a comprehensive risk assessment report with eligibility determination, confidence score, and supporting factors.</p>
+        </div>
+    </div>
+
+    <script>
+        // Show/hide fields based on data source selection
+        document.getElementById('data_source').addEventListener('change', function() {
+            const formIdGroup = document.getElementById('form_id_group');
+            const businessIdGroup = document.getElementById('business_id_group');
+            const restaurantInfoGroup = document.getElementById('restaurant_info_group');
+            
+            if (this.value === 'xano') {
+                formIdGroup.style.display = 'block';
+                businessIdGroup.style.display = 'block';
+                restaurantInfoGroup.style.display = 'block';
+            } else {
+                formIdGroup.style.display = 'none';
+                businessIdGroup.style.display = 'none';
+                restaurantInfoGroup.style.display = 'none';
+            }
+        });
+        
+        // Initialize display
+        const dataSource = document.getElementById('data_source').value;
+        const formIdGroup = document.getElementById('form_id_group');
+        const businessIdGroup = document.getElementById('business_id_group');
+        const restaurantInfoGroup = document.getElementById('restaurant_info_group');
+        
+        if (dataSource === 'xano') {
+            formIdGroup.style.display = 'block';
+            businessIdGroup.style.display = 'block';
+            restaurantInfoGroup.style.display = 'block';
+        } else {
+            formIdGroup.style.display = 'none';
+            businessIdGroup.style.display = 'none';
+            restaurantInfoGroup.style.display = 'none';
+        }
+        
+        // Add event listeners to clear other fields when one is filled
+        document.getElementById('form_id').addEventListener('input', function() {
+            if (this.value) {
+                document.getElementById('business_id').value = '';
+                document.getElementById('restaurant_name').value = '';
+                document.getElementById('restaurant_address').value = '';
+            }
+        });
+        
+        document.getElementById('business_id').addEventListener('input', function() {
+            if (this.value) {
+                document.getElementById('form_id').value = '';
+                document.getElementById('restaurant_name').value = '';
+                document.getElementById('restaurant_address').value = '';
+            }
+        });
+        
+        document.getElementById('restaurant_name').addEventListener('input', function() {
+            if (this.value) {
+                document.getElementById('form_id').value = '';
+                document.getElementById('business_id').value = '';
+            }
+        });
+        
+        document.getElementById('restaurant_address').addEventListener('input', function() {
+            if (this.value) {
+                document.getElementById('form_id').value = '';
+                document.getElementById('business_id').value = '';
+            }
+        });
+    </script>
+</body>
+</html>

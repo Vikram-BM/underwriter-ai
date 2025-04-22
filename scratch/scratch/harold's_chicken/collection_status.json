@@ -1,0 +1,8 @@
+{
+  "serp_search": true,
+  "link_extraction": true,
+  "yelp_data": false,
+  "instagram_data": true,
+  "google_images": true,
+  "report_generation": true
+}
